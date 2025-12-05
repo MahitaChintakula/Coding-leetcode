@@ -16,11 +16,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0067-add-binary) |
+| [0412-fizz-buzz](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0412-fizz-buzz) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## String
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0067-add-binary) |
+| [0412-fizz-buzz](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0412-fizz-buzz) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -29,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0067-add-binary) |
+| [0412-fizz-buzz](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0412-fizz-buzz) |
 ## Prefix Sum
 |  |
 | ------- |
