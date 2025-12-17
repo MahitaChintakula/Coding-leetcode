@@ -7,12 +7,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0169-majority-element) |
 | [0682-baseball-game](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0682-baseball-game) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0169-majority-element) |
 ## Math
 |  |
 | ------- |
@@ -75,4 +77,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0876-middle-of-the-linked-list](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0876-middle-of-the-linked-list) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
