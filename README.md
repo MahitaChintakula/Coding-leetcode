@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0169-majority-element) |
+| [0414-third-maximum-number](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0414-third-maximum-number) |
 | [0682-baseball-game](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0682-baseball-game) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Hash Table
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0169-majority-element) |
+| [0414-third-maximum-number](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0414-third-maximum-number) |
 ## Counting
 |  |
 | ------- |
