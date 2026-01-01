@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0014-longest-common-prefix) |
+| [0066-plus-one](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0066-plus-one) |
 | [0169-majority-element](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0169-majority-element) |
 | [0414-third-maximum-number](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0414-third-maximum-number) |
 | [0682-baseball-game](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0682-baseball-game) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0067-add-binary) |
 | [0326-power-of-three](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0342-power-of-four) |
