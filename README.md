@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0014-longest-common-prefix) |
 | [0066-plus-one](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0066-plus-one) |
 | [0169-majority-element](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0414-third-maximum-number) |
 | [0682-baseball-game](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0682-baseball-game) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0268-missing-number) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 ## Math
 |  |
@@ -30,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0412-fizz-buzz) |
@@ -50,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0067-add-binary) |
+| [0268-missing-number](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0342-power-of-four) |
 ## Simulation
@@ -108,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0414-third-maximum-number) |
 ## Counting
 |  |
@@ -120,5 +125,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
