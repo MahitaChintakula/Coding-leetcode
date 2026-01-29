@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0415-add-strings) |
 | [0507-perfect-number](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0507-perfect-number) |
+| [0509-fibonacci-number](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0509-fibonacci-number) |
 | [1518-water-bottles](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/1518-water-bottles) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1925-count-square-sum-triples](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/1925-count-square-sum-triples) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0342-power-of-four) |
+| [0509-fibonacci-number](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0509-fibonacci-number) |
 ## Stack
 |  |
 | ------- |
@@ -142,4 +144,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0367-valid-perfect-square) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
