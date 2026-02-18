@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 ## Math
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0125-valid-palindrome) |
+| [0389-find-the-difference](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0415-add-strings) |
 | [0520-detect-capital](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0520-detect-capital) |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0342-power-of-four) |
+| [0389-find-the-difference](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0389-find-the-difference) |
 ## Simulation
 |  |
 | ------- |
@@ -140,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0414-third-maximum-number) |
 ## Counting
 |  |
