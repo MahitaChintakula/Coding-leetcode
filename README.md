@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0202-happy-number) |
+| [0242-valid-anagram](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0389-find-the-difference) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0415-add-strings) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0389-find-the-difference) |
