@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0704-binary-search) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Hash Table
 |  |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0169-majority-element) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Trie
 |  |
 | ------- |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0704-binary-search) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Dynamic Programming
 |  |
 | ------- |
