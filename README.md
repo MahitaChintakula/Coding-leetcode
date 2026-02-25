@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0704-binary-search) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0415-add-strings) |
 | [0507-perfect-number](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0509-fibonacci-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1518-water-bottles](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/1518-water-bottles) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1925-count-square-sum-triples](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/1925-count-square-sum-triples) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0414-third-maximum-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Counting
 |  |
