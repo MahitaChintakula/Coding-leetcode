@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1652-defuse-the-bomb](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/1652-defuse-the-bomb) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Hash Table
 |  |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0876-middle-of-the-linked-list) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Counting
 |  |
 | ------- |
@@ -184,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0704-binary-search) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Dynamic Programming
 |  |
 | ------- |
