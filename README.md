@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1652-defuse-the-bomb](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/1652-defuse-the-bomb) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1920-build-array-from-permutation](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2974-minimum-number-game](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/2974-minimum-number-game) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 ## Counting Sort
 |  |
 | ------- |
@@ -253,4 +256,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1622-fancy-sequence](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/1622-fancy-sequence) |
+## Greedy
+|  |
+| ------- |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 <!---LeetCode Topics End-->
