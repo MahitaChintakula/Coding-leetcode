@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0415-add-strings) |
 | [0520-detect-capital](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0520-detect-capital) |
 | [0824-goat-latin](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0824-goat-latin) |
+| [1871-jump-game-vii](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/1871-jump-game-vii) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Bit Manipulation
 |  |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1871-jump-game-vii](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/1871-jump-game-vii) |
 | [2906-construct-product-matrix](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0509-fibonacci-number) |
+| [1871-jump-game-vii](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/1871-jump-game-vii) |
 ## Memoization
 |  |
 | ------- |
@@ -244,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1652-defuse-the-bomb](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/1652-defuse-the-bomb) |
+| [1871-jump-game-vii](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/1871-jump-game-vii) |
 ## Matrix
 |  |
 | ------- |
