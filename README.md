@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3432-count-partitions-with-even-sum-difference](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## String
 |  |
 | ------- |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0824-goat-latin](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0824-goat-latin) |
 | [1871-jump-game-vii](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/1871-jump-game-vii) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3546-equal-sum-grid-partition-i](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/3546-equal-sum-grid-partition-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Linked List
 |  |
 | ------- |
