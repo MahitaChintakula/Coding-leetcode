@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1925-count-square-sum-triples](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/1925-count-square-sum-triples) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## String
@@ -297,4 +298,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1727-largest-submatrix-with-rearrangements](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
