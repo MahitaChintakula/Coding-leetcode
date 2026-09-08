@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0066-plus-one](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0137-single-number-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0509-fibonacci-number) |
 | [1871-jump-game-vii](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/1871-jump-game-vii) |
 ## Memoization
