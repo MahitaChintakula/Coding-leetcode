@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0389-find-the-difference) |
+| [0424-longest-repeating-character-replacement](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1331-rank-transform-of-an-array](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0415-add-strings) |
+| [0424-longest-repeating-character-replacement](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0520-detect-capital](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0520-detect-capital) |
 | [0824-goat-latin](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0824-goat-latin) |
 | [1871-jump-game-vii](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/1871-jump-game-vii) |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [1652-defuse-the-bomb](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/1652-defuse-the-bomb) |
 | [1871-jump-game-vii](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/1871-jump-game-vii) |
 ## Matrix
