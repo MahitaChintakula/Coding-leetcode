@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0567-permutation-in-string](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0567-permutation-in-string) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1331-rank-transform-of-an-array](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0520-detect-capital](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0520-detect-capital) |
+| [0567-permutation-in-string](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0567-permutation-in-string) |
 | [0824-goat-latin](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0824-goat-latin) |
 | [1871-jump-game-vii](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/1871-jump-game-vii) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0567-permutation-in-string](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -280,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0567-permutation-in-string) |
 | [1652-defuse-the-bomb](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/1652-defuse-the-bomb) |
 | [1871-jump-game-vii](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/1871-jump-game-vii) |
 ## Matrix
