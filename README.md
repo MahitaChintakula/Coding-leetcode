@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0875-koko-eating-bananas) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1331-rank-transform-of-an-array](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0875-koko-eating-bananas) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
