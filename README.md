@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0042-trapping-rain-water) |
+| [0155-min-stack](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0682-baseball-game) |
 ## Two Pointers
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0155-min-stack) |
 | [1622-fancy-sequence](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/1622-fancy-sequence) |
 ## Segment Tree
 |  |
