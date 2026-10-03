@@ -354,4 +354,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0042-trapping-rain-water) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
