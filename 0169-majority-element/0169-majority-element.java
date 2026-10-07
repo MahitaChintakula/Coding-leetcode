@@ -12,16 +12,16 @@ class Solution {
                 count--;
             }
         }
-        //return can;
-        int freq=0;
-        for(int i=0;i<nums.length;i++){
-            if(nums[i]==can){
-                freq++;
-            }
-        }
-        if(freq>nums.length/2){
-            return can;
-        }
-        return -1;
+        return can;
+        // int freq=0;
+        // for(int i=0;i<nums.length;i++){
+        //     if(nums[i]==can){
+        //         freq++;
+        //     }
+        // }
+        // if(freq>nums.length/2){
+        //     return can;
+        // }
+        // return -1;
     }
 }
