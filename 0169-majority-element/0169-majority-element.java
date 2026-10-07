@@ -1,27 +1,14 @@
 class Solution {
     public int majorityElement(int[] nums) {
-        int count=0,can=0;
+        HashMap<Integer,Integer> hash=new HashMap<>();
+        int res=0, maj=0;
         for(int i=0;i<nums.length;i++){
-            if(count==0){
-                can=nums[i];
-            }
-            if(nums[i]==can){
-                count++;
-            }
-            else{
-                count--;
+            hash.put(nums[i],1+hash.getOrDefault(nums[i],0));
+            if(hash.get(nums[i])>maj){
+                res=nums[i];
+                maj=hash.get(nums[i]);
             }
         }
-        return can;
-        // int freq=0;
-        // for(int i=0;i<nums.length;i++){
-        //     if(nums[i]==can){
-        //         freq++;
-        //     }
-        // }
-        // if(freq>nums.length/2){
-        //     return can;
-        // }
-        // return -1;
+        return res;
     }
 }
