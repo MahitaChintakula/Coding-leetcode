@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0189-rotate-array) |
+| [0238-product-of-array-except-self](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0283-move-zeroes) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/0238-product-of-array-except-self) |
 | [1871-jump-game-vii](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/1871-jump-game-vii) |
 | [2906-construct-product-matrix](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/MahitaChintakula/Coding-leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
